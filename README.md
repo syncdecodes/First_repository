@@ -13,5 +13,9 @@ It’s simple, clean, and made from scratch using only HTML and CSS. The goal? L
 <br>
 👉 check out the live site here (https://syncdecodes.github.io/sync-codes/)
 <br>
-author - Dev
+---
+
+Thanks for visiting, Happy coding!
+<br>
+Author - Dev
 
