@@ -16,5 +16,9 @@ Check what 24 days of coding looks like 🚀
 
 Thanks for visiting, Happy coding!
 
+## ✍️ AUTHOR
 
+DEV
+
+Created by [syncdecodes](https://github.com/syncdecodes)
 
