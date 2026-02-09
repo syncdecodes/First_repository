@@ -18,7 +18,7 @@ Thanks for visiting, Happy coding!
 
 ## ✍️ AUTHOR
 
-DEV
+DEV codes
 
 Created by [syncdecodes](https://github.com/syncdecodes)
 
