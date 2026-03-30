@@ -19,5 +19,5 @@ Thanks for visiting, Happy coding!
 ## ✍️ AUTHOR
 
 DEV codes <br>
-Created by [syncdecodes](https://github.com/imdevvx)
+Created by [imdevvx](https://github.com/imdevvx)
 
