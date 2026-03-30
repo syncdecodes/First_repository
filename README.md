@@ -18,6 +18,6 @@ Thanks for visiting, Happy coding!
 
 ## ✍️ AUTHOR
 
-DEV codes <br>
+DEV <br>
 Created by [imdevvx](https://github.com/imdevvx)
 
