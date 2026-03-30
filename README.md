@@ -10,7 +10,7 @@ Check what 24 days of coding looks like 🚀
 
 - It’s simple, clean, and made from scratch using only HTML and CSS. The goal? Learn by doing.
 
-🔗 [Live Demo](https://syncdecodes.github.io/First_repository/)
+🔗 [Live Demo](https://imdevvx.github.io/First_repository/)
 
 ---
 
@@ -18,7 +18,6 @@ Thanks for visiting, Happy coding!
 
 ## ✍️ AUTHOR
 
-DEV codes
-
-Created by [syncdecodes](https://github.com/syncdecodes)
+DEV codes <br>
+Created by [syncdecodes](https://github.com/imdevvx)
 
